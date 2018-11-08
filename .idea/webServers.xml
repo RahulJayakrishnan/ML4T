@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="10064053-80b1-42c8-9a36-6bcf05929e65" name="buffet02.cc.gatech.edu" url="http://buffet02.cc.gatech.edu">
+        <fileTransfer host="buffet02.cc.gatech.edu" port="22" rootFolder="/home/rjayakrishnan3" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
